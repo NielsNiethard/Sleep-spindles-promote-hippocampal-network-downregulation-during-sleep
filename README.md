@@ -1,8 +1,7 @@
 # Sleep spindles promote hippocampal network downregulation during sleep
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18714655.svg)](https://doi.org/10.5281/zenodo.18714655) 
 *(Note: Replace the X's with your Zenodo DOI once minted)*
-
 This repository contains the MATLAB code required to reproduce the analysis and figures for the publication: **"Sleep spindles promote hippocampal network downregulation during sleep"** by Niels Niethard et al.
 
 ## Overview
